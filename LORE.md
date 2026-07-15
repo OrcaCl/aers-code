@@ -1,4 +1,4 @@
-# LORE (No es de Lorena)
+# LORE
 No es de Lorena, ella me cae mal.
 
 ## ¿Qué significa PPQL?
