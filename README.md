@@ -24,8 +24,7 @@ y aquí estamos...
 
 
 El pack `aers.json` te permite agregar o cambiar los verbos que usa Code mientras piensa o lo mandas a hacer una tarea. 
-No hay ninguna lógica especial, ni detección de contexto ni nada. Solo un reemplazo o suma. (Sería interesante saber si es que eso se puede detectar, pal TODO.md)
-
+No hay ninguna lógica especial, ni detección de contexto ni nada. Solo un reemplazo o suma. 
 
 ## Instalación:
 
