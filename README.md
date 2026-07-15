@@ -1,28 +1,41 @@
 # Aers... Code
+## 🇨🇱 Los `spinnerVerbs` de Claude Code versión Chileno
+
+
 
 > "...si igual tenís que esperar a que cargue...
 > ríete un poco."
 
-## 🇨🇱 Un pack de frases chilenas para personalizar los `spinnerVerbs` de Claude Code.
 
-Aers... Code es un poquito de humor que se me ocurrió después de leer un millón de veces esas palabras raras que muestra Code, algunas divertidas otras no tanto y pensé... y si le pongo PPQL aqui? y aquí estamos...
+Aers... Code 
+es un poquito de humor que se me ocurrió después de leer un millón de veces esas palabras raras que muestra Code. 
+Algunas divertidas otras no tanto y pensé... 
 
-### No acelera a Claude.
+¿y si le pongo un PPQL aqui? 
 
-### No mejora los prompts.
+y aquí estamos...
 
-### No arregla los bugs.
 
+*No acelera a Claude*
+
+*No mejora los prompts*
+
+*No arregla los bugs*
+
+
+El pack `aers.json` te permite agregar o cambiar los verbos que usa Code mientras piensa o lo mandas a hacer una tarea. 
+No hay ninguna lógica especial, ni detección de contexto ni nada. Solo un reemplazo o suma. (Sería interesante saber si es que eso se puede detectar, pal TODO.md)
 
 
 ## Instalación:
 
-Escoje alguno de los packs de frases que te comparto, y reemplaza o agrega a tu archivo de settings.json en la carpeta de .claude/ según la acción que desees:
+Escoje desde la carpeta packs/ ~~alguno de los packs de frases~~ aers.json que te comparto, y reemplaza o agrega a tu archivo de `settings.json` que se encuentra en la carpeta `.claude/` según lo que desees hacer con los verbos originales:
 
-*"mode": "append" = para agregar nuevas frases o verbos* (Seleccionado por omisión)
-*"mode": "replace" = para reemplazar los originales por los de cada pack.*
+`"mode": "append"` = para agregar nuevas frases y mantener los verbos originales (Seleccionado por omisión)
 
+`"mode": "replace"` = para reemplazar los originales por los de ~~los packs~~ aers.js .
 
+```json
 {
   "spinnerVerbs": {
     "mode": "append",
@@ -33,6 +46,7 @@ Escoje alguno de los packs de frases que te comparto, y reemplaza o agrega a tu 
     ]
   }
 }
+```
 
 
 `Solo hace un poco más entretenidos esos segundos en que no se qué está pasando pero va.`
