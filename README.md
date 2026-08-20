@@ -25,8 +25,8 @@ El pack `aers.json` te permite agregar o cambiar los verbos que usa Code mientra
 No hay ninguna lógica especial, ni detección de contexto ni nada. Solo un reemplazo o suma. 
 
 
-**Importante:**
-Lamentablemente, los `Verbos del Spinner de carga -- spinnerVerbs` no se pueden mostrar en la extensión de Claude Code para VS Code usando el modo Chat UI. Sólo funciona si trabajas en el modo CLI o Terminal. No he tenido tiempo para hacerlo investigar más sobre cómo agregarlos por ese plugin. 
+**Importante:
+Lamentablemente, los `las palabras locas que salen mientras piensa Claude Code -- spinnerVerbs` no se pueden mostrar en la extensión de Claude Code para VS Code usando el modo Chat UI. Sólo funciona si trabajas en el modo CLI o Terminal.** No he tenido tiempo para investigar más sobre cómo agregarlos por ese plugin. Si alguien se raja, bacán.
 
 
 ## Instalación:
