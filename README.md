@@ -31,6 +31,9 @@ Lamentablemente, los `las palabras locas que salen mientras piensa Claude Code -
 
 ## Instalación:
 
+La configuración se puede instalar de forma global o por proyectos. Si vas a usar los packs (proyectados porque ahora solo hay 1) que son `NSFW` te recomiendo usarlo en modo local o por separado. No he probado tener spinnerVerbs en la configuración global y otros en la config por carpetas. (TODO #1)
+
+
 Escoje desde la carpeta packs/ ~~alguno de los packs de frases~~ aers.json que te comparto, y reemplaza o agrega a tu archivo de `settings.json` que se encuentra en la carpeta `.claude/` según lo que desees hacer con los verbos originales:
 
 `"mode": "append"` = para agregar nuevas frases y mantener los verbos originales (Seleccionado por omisión)
