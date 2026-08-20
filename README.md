@@ -1,8 +1,6 @@
 # Aers... Code
 ## 🇨🇱 Los `spinnerVerbs` de Claude Code versión Chileno
 
-
-
 > "...si igual tenís que esperar a que cargue...
 > ríete un poco."
 
@@ -25,6 +23,11 @@ y aquí estamos...
 
 El pack `aers.json` te permite agregar o cambiar los verbos que usa Code mientras piensa o lo mandas a hacer una tarea. 
 No hay ninguna lógica especial, ni detección de contexto ni nada. Solo un reemplazo o suma. 
+
+
+**Importante:**
+Lamentablemente, los `Verbos del Spinner de carga -- spinnerVerbs` no se pueden mostrar en la extensión de Claude Code para VS Code usando el modo Chat UI. Sólo funciona si trabajas en el modo CLI o Terminal. No he tenido tiempo para hacerlo investigar más sobre cómo agregarlos por ese plugin. 
+
 
 ## Instalación:
 
