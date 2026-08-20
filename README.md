@@ -4,7 +4,7 @@
 > "...si igual tenís que esperar a que cargue...
 > ríete un poco."
 
-[Aers... Code en acción](https://github.com/OrcaCl/aers-code/blob/3b7eeef65b8211f970dbb7d6e4d9f1c058c1373b/aers-demo.jpg)
+![Aers... Code en acción](https://github.com/OrcaCl/aers-code/blob/3b7eeef65b8211f970dbb7d6e4d9f1c058c1373b/aers-demo.jpg?raw=true)
 
 Aers... Code 
 es un poquito de humor que se me ocurrió después de leer un millón de veces esas palabras raras que muestra Code. 
